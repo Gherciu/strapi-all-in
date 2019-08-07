@@ -7,6 +7,7 @@ This is a starter application using strapi.js
 ### Getting started
 
 - Clone strapi-all-in starter: `git clone https://github.com/Gherciu/strapi-all-in.git`
+- Edit configuration variables in `.env.development` file
 - Start dev server: `npm run start`
 
 ### Features
