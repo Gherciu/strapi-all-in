@@ -12,6 +12,7 @@ This is a starter application using strapi.js
 ### Features
 
 - Pre-commit hooks with `husky` and `lint-staged`
+- `pm2` implimented and configured to work well in production mode
 - Preconfigured `.env` files for development and production use
 
 ### When ready to build for production
