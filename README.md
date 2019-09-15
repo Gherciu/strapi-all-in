@@ -34,7 +34,7 @@ This is a starter application using strapi.js
 
 ## Author
 
-**@Gherciu/strapi-all-in** © [GHERCIU](https://github.com/Gherciu), Released under the [MIT](./LICENSE) License.<br>
+**[@Gherciu/strapi-all-in](https://github.com/Gherciu/strapi-all-in)** © [GHERCIU](https://github.com/Gherciu), Released under the [MIT](https://github.com/Gherciu/strapi-all-in/blob/master/LICENSE.md) License.<br>
 Authored and maintained by GHERCIU with help from contributors ([list](https://github.com/Gherciu/strapi-all-in/contributors)).
 
 #### If you like this repository star⭐ and watch👀 on [GitHub](https://github.com/Gherciu/strapi-all-in)
