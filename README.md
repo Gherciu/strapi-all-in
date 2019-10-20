@@ -1,5 +1,8 @@
 ## strapi-all-in
 
+![GitHub](https://img.shields.io/github/license/Gherciu/strapi-all-in)
+![Multipack](https://img.shields.io/badge/Generated%20from-strapi--all--in-green)
+
 ### Introduction
 
 This is a starter application using strapi.js
