@@ -4,10 +4,10 @@
   "description": "Strapi starter for universal api's",
   "license": "MIT",
   "author": {
-		"name": "Gherciu Gheorghe",
-		"email": "gherciu553@gmail.com",
-		"url": "https://gherciu.github.io/portfolio/"
-	},
+    "name": "Gherciu Gheorghe",
+    "email": "gherciu553@gmail.com",
+    "url": "https://gherciu.github.io/portfolio/"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Gherciu/strapi-all-in"
@@ -31,10 +31,13 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
     "babel-eslint": "^10.0.0",
     "cross-env": "^5.2.0",
     "dotenv": "^8.0.0",
