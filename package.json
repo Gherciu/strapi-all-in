@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "description": "Strapi starter for universal api's",
   "license": "MIT",
-  "author": "Gherciu Gheorghe",
+  "author": {
+		"name": "Gherciu Gheorghe",
+		"email": "gherciu553@gmail.com",
+		"url": "https://gherciu.github.io/portfolio/"
+	},
   "repository": {
     "type": "git",
     "url": "https://github.com/Gherciu/strapi-all-in"
