@@ -1,7 +1,7 @@
 ## strapi-all-in
 
-![GitHub](https://img.shields.io/github/license/Gherciu/strapi-all-in)
-![Strapi-All-In](https://img.shields.io/badge/Generated%20from-strapi--all--in-green)
+[![GitHub](https://img.shields.io/github/license/Gherciu/strapi-all-in)](https://github.com/Gherciu/strapi-all-in/blob/master/LICENSE.md)
+[![Strapi-All-In](https://img.shields.io/badge/Generated%20from-strapi--all--in-green)](https://github.com/Gherciu/strapi-all-in)
 
 ### Introduction
 
