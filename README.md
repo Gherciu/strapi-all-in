@@ -35,6 +35,10 @@ This is a starter application using strapi.js
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+#### Or you can sponsor via [Open Collective](https://opencollective.com/gherciu-gheorghe/)
+
+[![Open Collective](https://opencollective.com/gherciu-gheorghe/tiers/sponsor.svg?avatarHeight=60)](https://opencollective.com/gherciu-gheorghe/)
+
 ## Author
 
 **[@Gherciu/strapi-all-in](https://github.com/Gherciu/strapi-all-in)** © [GHERCIU](https://github.com/Gherciu), Released under the [MIT](https://github.com/Gherciu/strapi-all-in/blob/master/LICENSE.md) License.<br>
